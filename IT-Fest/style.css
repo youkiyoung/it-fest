@@ -1,0 +1,187 @@
+.event {
+    font-size: 36px;
+}
+
+.eventContent {
+    font-size: 26px;
+}
+
+.themeTitle {
+    text-align: center;
+}
+.eventText {
+    text-align: center;
+}
+
+.taskTheme {
+    font-size: 26px;
+}
+
+.task {
+    font-size: 26px;
+}
+
+.siteTitle {
+    font-size: 36px;
+    padding-top: 10px;
+    font-family: 'DelaGothicOne-Regular';
+}
+
+.hackathonDef {
+    font-size: 25px;
+    font-family: 'DelaGothicOne-Regular';
+    text-align: center;
+}
+
+.taskIncome {
+    font-size: 24px;
+}
+
+.sponsorContent {
+    font-size: 24px;
+}
+
+.judges {
+    font-size: 26px;
+}
+
+.themeTitle {
+    margin-top: 40px;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.taskTitle {
+    text-align: center;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.taskText {
+    font-size: 22px;
+}
+
+.firstTask {
+    max-width: 45%;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-left: 30px;
+    background-image: url(img/gradient_2.jpg);
+    height: 370px;
+}
+
+.firstTaskText {
+    color: rgb(39, 30, 124)
+}
+
+.secondTask {
+    max-width: 45%;
+    margin-left: auto;
+    margin-top: -388px;
+    margin-right: 30px;
+    background-image: url(img/gradient_3.jpg);
+    height: 600px;
+}
+
+.secondTaskText {
+    color: rgb(39, 30, 124);
+}
+
+.firstTaskTitle {
+    text-align: center;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    color: rgb(39, 30, 124);
+    padding-top: 30px;
+}
+
+.firstTaskMainText {
+    max-width: 90%;
+}
+
+.secondTaskTitle {
+    text-align: center;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    padding-top: 30px;
+    color: rgb(39, 30, 124);
+}
+
+.secondTaskMainText {
+    max-width: 90%;
+    max-height: 80%;
+}
+
+.judgesTitle {
+    max-width: 100%;
+    text-align: center;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.judgeName {
+    text-align: center;
+    font-family: 'DelaGothicOne-Regular';
+    text-transform: uppercase;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.img {
+    width: fit-content;
+    height: fit-content;
+    display:block;
+    margin:auto;
+}
+
+.judgeText {
+    text-align: center;
+    font-size: 30px;
+}
+
+a.button {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+a.mainButton {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    padding: 19px;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    width: 100%;
+    background: url(img/5.jpg);
+    font-family: 'DelaGothicOne-Regular';
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    position: fixed;
+    margin-top: -16px;
+    margin-left: -10px;
+    margin-right: -20px;
+}
+
+p {
+    color: black;
+}
+
+div {
+    color: b;
+}
+
+body {
+    font-family: 'Rubick';
+}

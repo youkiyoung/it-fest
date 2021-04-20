@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'ZillaSlabHighlight';
+    src: url(fonts/ZillaSlabHighlight/ZillaSlabHighlight-Bold.ttf);
+}
+
+@font-face {
+    font-family: DelaGothicOne-Regular;
+    src: url(fonts/DelaGothicOne-Regular/DelaGothicOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto/RobotoSlab-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Rubick';
+    src: url(fonts/Rubick/Rubik-Medium.ttf);
+}
